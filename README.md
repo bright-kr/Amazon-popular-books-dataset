@@ -18,7 +18,7 @@ Amazon에서 가장 많은 리뷰를 받았으며 가장 많이 판매된 도서
 * ```Availability```
 
 ---
-![Amazon dataset sample](https://github.com/luminati-io/Amazon-popular-books-dataset/blob/main/Datasets%20ads%20for%20Amazon.png)
+![Amazon dataset sample](https://github.com/bright-kr/Amazon-popular-books-dataset/blob/main/Datasets%20ads%20for%20Amazon.png)
 
 <h3>How was this Amazon dataset created</h3>
   
